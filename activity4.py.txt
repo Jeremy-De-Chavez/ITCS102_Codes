@@ -1,0 +1,6 @@
+
+codes_phase = "\t\t\t\t\t\t\t\t\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t*\t\t\t\"My name is\"\t\t\t\t*\n\n\t\t\t\t\t\t\t\t*\t\t\t\"De Chavez, Jeremy D.\"\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t*"
+
+
+print(codes_phase)
+
