@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #bfd196;
+    color: #072938
+}
+
+h1 { color: rgba(50, 17, 236, 0.333)}
+.app-container { 
+    background-color:rgb(150, 113, 88);
+    max-width: 500px;
+    margin: 100px 700px;
+    padding: 50px solid rgb(94, 47, 126);
+    border-radius: 25px;
+    border:#360f25 solid;
+}
+
+#task-form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px
+}
+
+#task-form{
+    flex:1;
+    min-width: 0;
+    padding: 10px;
+}
+button:hover{
+    background-color: pink;
+    padding: 10px;
+}
